@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrenCoverterServerAPI", "CurrenCoverterServerAPI\CurrenCoverterServerAPI.csproj", "{129333A4-62E3-4364-A80E-8850E8461DE4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CurrencyConverterClient", "CurrencyConverterClient\CurrencyConverterClient.csproj", "{2454D400-9A8D-487D-ACB6-A73224F9166E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{129333A4-62E3-4364-A80E-8850E8461DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{129333A4-62E3-4364-A80E-8850E8461DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{129333A4-62E3-4364-A80E-8850E8461DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{129333A4-62E3-4364-A80E-8850E8461DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2454D400-9A8D-487D-ACB6-A73224F9166E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2454D400-9A8D-487D-ACB6-A73224F9166E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2454D400-9A8D-487D-ACB6-A73224F9166E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2454D400-9A8D-487D-ACB6-A73224F9166E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF38D8E-DAE0-4E06-B744-06108A543648}
+	EndGlobalSection
+EndGlobal

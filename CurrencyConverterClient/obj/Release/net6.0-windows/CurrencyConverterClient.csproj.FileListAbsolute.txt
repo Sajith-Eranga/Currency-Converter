@@ -1,0 +1,16 @@
+E:\CurrencyConverter\CurrencyConverterClient\bin\Release\net6.0-windows\CurrencyConverterClient.exe
+E:\CurrencyConverter\CurrencyConverterClient\bin\Release\net6.0-windows\CurrencyConverterClient.deps.json
+E:\CurrencyConverter\CurrencyConverterClient\bin\Release\net6.0-windows\CurrencyConverterClient.runtimeconfig.json
+E:\CurrencyConverter\CurrencyConverterClient\bin\Release\net6.0-windows\CurrencyConverterClient.dll
+E:\CurrencyConverter\CurrencyConverterClient\bin\Release\net6.0-windows\CurrencyConverterClient.pdb
+E:\CurrencyConverter\CurrencyConverterClient\obj\Release\net6.0-windows\CurrencyConverterClient.Form1.resources
+E:\CurrencyConverter\CurrencyConverterClient\obj\Release\net6.0-windows\CurrencyConverterClient.csproj.GenerateResource.cache
+E:\CurrencyConverter\CurrencyConverterClient\obj\Release\net6.0-windows\CurrencyConverterClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\CurrencyConverter\CurrencyConverterClient\obj\Release\net6.0-windows\CurrencyConverterClient.AssemblyInfoInputs.cache
+E:\CurrencyConverter\CurrencyConverterClient\obj\Release\net6.0-windows\CurrencyConverterClient.AssemblyInfo.cs
+E:\CurrencyConverter\CurrencyConverterClient\obj\Release\net6.0-windows\CurrencyConverterClient.csproj.CoreCompileInputs.cache
+E:\CurrencyConverter\CurrencyConverterClient\obj\Release\net6.0-windows\CurrencyConverterClient.dll
+E:\CurrencyConverter\CurrencyConverterClient\obj\Release\net6.0-windows\refint\CurrencyConverterClient.dll
+E:\CurrencyConverter\CurrencyConverterClient\obj\Release\net6.0-windows\CurrencyConverterClient.pdb
+E:\CurrencyConverter\CurrencyConverterClient\obj\Release\net6.0-windows\CurrencyConverterClient.genruntimeconfig.cache
+E:\CurrencyConverter\CurrencyConverterClient\obj\Release\net6.0-windows\ref\CurrencyConverterClient.dll

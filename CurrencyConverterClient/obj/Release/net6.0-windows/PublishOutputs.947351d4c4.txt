@@ -1,0 +1,5 @@
+E:\CurrencyConverter\CurrencyConverterClient\bin\Release\net6.0-windows\publish\CurrencyConverterClient.exe
+E:\CurrencyConverter\CurrencyConverterClient\bin\Release\net6.0-windows\publish\CurrencyConverterClient.dll
+E:\CurrencyConverter\CurrencyConverterClient\bin\Release\net6.0-windows\publish\CurrencyConverterClient.deps.json
+E:\CurrencyConverter\CurrencyConverterClient\bin\Release\net6.0-windows\publish\CurrencyConverterClient.runtimeconfig.json
+E:\CurrencyConverter\CurrencyConverterClient\bin\Release\net6.0-windows\publish\CurrencyConverterClient.pdb
